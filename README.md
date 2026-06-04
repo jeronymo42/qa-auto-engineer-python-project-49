@@ -7,6 +7,9 @@
 ### Brain-calc-game
 [![asciicast](https://asciinema.org/a/7qHVWvMHzxc819Au.svg)](https://asciinema.org/a/7qHVWvMHzxc819Au)
 
+### Brain-gcd-game
+[![asciicast](https://asciinema.org/a/mrgdvmwmjs5xI4Ro.svg)](https://asciinema.org/a/mrgdvmwmjs5xI4Ro)
+
 ### SonarQube:
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jeronymo42_qa-auto-engineer-python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=jeronymo42_qa-auto-engineer-python-project-49)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=jeronymo42_qa-auto-engineer-python-project-49&metric=bugs)](https://sonarcloud.io/summary/new_code?id=jeronymo42_qa-auto-engineer-python-project-49)
