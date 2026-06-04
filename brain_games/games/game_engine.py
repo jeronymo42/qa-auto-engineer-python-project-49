@@ -1,8 +1,8 @@
 from collections.abc import Callable
 
-from brain_games.scripts.welcome import welcome
-from brain_games.scripts.constants import NUMBER_OF_GAMES
-from brain_games.scripts.end_game import farewell_user
+from brain_games.games.welcome import welcome
+from brain_games.games.constants import NUMBER_OF_GAMES
+from brain_games.games.end_game import farewell_user
 import prompt
 
 

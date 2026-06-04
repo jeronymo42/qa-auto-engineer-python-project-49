@@ -1,5 +1,5 @@
 from random import randint, choice
-from brain_games.scripts.constants import MIN_NUMBER, MAX_NUMBER, MATH_OPERATIONS
+from brain_games.games.constants import MIN_NUMBER, MAX_NUMBER, MATH_OPERATIONS
 
 
 def get_calc_game_question():

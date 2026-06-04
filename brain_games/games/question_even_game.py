@@ -1,5 +1,5 @@
 from random import randint
-from brain_games.scripts.constants import MIN_NUMBER, MAX_NUMBER
+from brain_games.games.constants import MIN_NUMBER, MAX_NUMBER
 
 
 def get_even_game_question():
