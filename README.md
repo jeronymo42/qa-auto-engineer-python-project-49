@@ -2,7 +2,7 @@
 [![Actions Status](https://github.com/jeronymo42/qa-auto-engineer-python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/jeronymo42/qa-auto-engineer-python-project-49/actions)
 
 ### Brain-even-game
-[![asciicast](https://asciinema.org/a/qRLQxdZYVJ5o6JAd.svg)](https://asciinema.org/a/qRLQxdZYVJ5o6JAd)
+[![asciicast](https://asciinema.org/a/ss1dflU7Jw1nP36B.svg)](https://asciinema.org/a/ss1dflU7Jw1nP36B)
 
 
 ### SonarQube:
