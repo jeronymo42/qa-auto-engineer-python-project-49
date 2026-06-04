@@ -1,6 +1,9 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/jeronymo42/qa-auto-engineer-python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/jeronymo42/qa-auto-engineer-python-project-49/actions)
 
+### Brain-even-game
+[![asciicast](https://asciinema.org/a/qRLQxdZYVJ5o6JAd.svg)](https://asciinema.org/a/qRLQxdZYVJ5o6JAd)
+
 
 ### SonarQube:
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jeronymo42_qa-auto-engineer-python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=jeronymo42_qa-auto-engineer-python-project-49)
