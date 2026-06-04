@@ -1,6 +1,6 @@
 from brain_games.scripts.welcome import welcome
 from brain_games.scripts.constants import NUMBER_OF_GAMES, MIN_NUMBER, MAX_NUMBER
-
+from brain_games.scripts.end_game import farewell_user
 import prompt
 from random import randint
 
@@ -17,10 +17,7 @@ def main():
             print("Correct!")
             games_played += 1
         else:
-            print(
-                f"'{answer}' is wrong answer ;(. Correct answer was '{'no' if number % 2 else 'yes'}'."
-            )
-            print(f"Let's try again, {user_name}!")
+            farewell_user(user_name, answer, 'no' if number % 2 else 'yes')
             return
     print(f"Congratulations, {user_name}!")
 
