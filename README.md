@@ -4,6 +4,8 @@
 ### Brain-even-game
 [![asciicast](https://asciinema.org/a/ss1dflU7Jw1nP36B.svg)](https://asciinema.org/a/ss1dflU7Jw1nP36B)
 
+### Brain-calc-game
+[![asciicast](https://asciinema.org/a/7qHVWvMHzxc819Au.svg)](https://asciinema.org/a/7qHVWvMHzxc819Au)
 
 ### SonarQube:
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jeronymo42_qa-auto-engineer-python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=jeronymo42_qa-auto-engineer-python-project-49)
