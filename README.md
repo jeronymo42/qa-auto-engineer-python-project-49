@@ -1,3 +1,21 @@
+### Проект: Игры разума (Python)
+Проект содержит 5 игр в формате вопрос-ответ:
+- Brain-even-game - является ли число четным
+- Brain-calc-game - посчитать выражение
+- Brain-gcd-game - найти наибольший общий делитель
+- Brain-progression-game - угадать недостающее число в прогрессии
+- Brain-prime-game - является ли число простым
+
+Игровой процесс представлен в аскинемах ниже.
+Игра ведется до 3 успешных действий игрока (победа) или до первого неправильного ввода.
+
+#### Установка
+Чтобы поиграть необходимо установить игры как пакет, для этого в консоли необходимо выполнить следующие шаги:
+- make build
+- make package-install
+- ввести название интересующей игры
+
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/jeronymo42/qa-auto-engineer-python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/jeronymo42/qa-auto-engineer-python-project-49/actions)
 
