@@ -2,7 +2,7 @@ from random import randint
 from brain_games.games.constants import MIN_NUMBER, MAX_NUMBER
 
 
-def get_gcd_game_question():
+def get_gcd_game_question() -> tuple[str, str]:
     number1 = randint(MIN_NUMBER, MAX_NUMBER)
     number2 = randint(MIN_NUMBER, MAX_NUMBER)
     question_text = f"{number1} {number2}"

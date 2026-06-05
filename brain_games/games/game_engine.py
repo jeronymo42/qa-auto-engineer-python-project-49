@@ -6,7 +6,7 @@ from brain_games.games.end_game import farewell_user
 import prompt
 
 
-def play_game(start_text: str, get_question: Callable[[], tuple[str, int]]) -> None:
+def play_game(start_text: str, get_question: Callable[[], tuple[str, str]]) -> None:
     user_name = welcome()
     print(start_text)
     games_played = 0
