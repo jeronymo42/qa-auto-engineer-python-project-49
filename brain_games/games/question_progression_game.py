@@ -10,8 +10,7 @@ from brain_games.games.constants import (
 
 
 def get_progression_game_question():
-    progression_length = randint(
-        MIN_PROGRESSION_LENGTH, MAX_PROGRESSION_LENGTH)
+    progression_length = randint(MIN_PROGRESSION_LENGTH, MAX_PROGRESSION_LENGTH)
     step = randint(MIN_PROGRESSION_STEP, MAX_PROGRESSION_STEP)
     start_number = randint(MIN_NUMBER, MAX_NUMBER)
     progression = [start_number]
