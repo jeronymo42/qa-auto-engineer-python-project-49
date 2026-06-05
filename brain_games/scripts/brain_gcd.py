@@ -1,11 +1,11 @@
 from brain_games.games.game_engine import play_game
-from brain_games.games.question_gcd_game import get_gcd_game_question
+from brain_games.games.question_gcd_game import set_gcd_game_question
 
 
 def main():
     play_game(
         "Find the greatest common divisor of given numbers.",
-        get_gcd_game_question,
+        set_gcd_game_question,
     )
 
 

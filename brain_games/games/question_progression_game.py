@@ -9,7 +9,7 @@ from brain_games.games.constants import (
 )
 
 
-def get_progression_game_question() -> tuple[str, str]:
+def set_progression_game_question() -> tuple[str, str]:
     progression_length = randint(MIN_PROGRESSION_LENGTH, MAX_PROGRESSION_LENGTH)
     step = randint(MIN_PROGRESSION_STEP, MAX_PROGRESSION_STEP)
     start_number = randint(MIN_NUMBER, MAX_NUMBER)

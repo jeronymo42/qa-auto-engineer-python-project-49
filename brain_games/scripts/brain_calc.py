@@ -1,11 +1,11 @@
 from brain_games.games.game_engine import play_game
-from brain_games.games.question_calc_game import get_calc_game_question
+from brain_games.games.question_calc_game import set_calc_game_question
 
 
 def main():
     play_game(
         "What is the result of the expression?",
-        get_calc_game_question,
+        set_calc_game_question,
     )
 
 
