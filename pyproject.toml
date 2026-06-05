@@ -2,7 +2,7 @@
 name = "hexlet-code"
 version = "0.1.0"
 description = "Проект: Игры разума (Python)"
-authors = [{ name = "Vladimir Ledovskikh", email = "-" }]
+authors = [{ name = "Vladimir Ledovskikh", email = "v.v.ledovskikh@yandex.ru" }]
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
